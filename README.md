@@ -9,7 +9,7 @@
  <br/> 🙌🏼 &nbsp; Looking for contribute with Front-end projects using React
  <br/> 🚀 &nbsp; Nerver Stop Learning!
 <!--
-**eng-Bruno/eng-Bruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**eng-Bruno/README** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
