@@ -4,10 +4,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eng-Bruno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </div>
 
-
- <br/>🌱 &nbsp; I’m currently learning ReactJS, Node.js & Javascript
- <br/> 🙌🏼 &nbsp; Looking for contribute with Front-end projects using React
- <br/> 🚀 &nbsp; Nerver Stop Learning!
 <!--
 **eng-Bruno/README** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
