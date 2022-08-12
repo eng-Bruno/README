@@ -13,6 +13,17 @@
 </div>
   
   ##
+  
+  </p> 
+<div align="center">
+  
+![Snake animation](https://github.com/lramon2001/lramon2001/blob/output/github-contribution-grid-snake.svg)
+  
+  
+  </div>
+  </p>
+  
+  ##
  
 <div> 
   <a href = "mailto:brunooliveira.unb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
