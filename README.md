@@ -1,10 +1,9 @@
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+### Olá, meu nome é Bruno Oliveira e eu sou um estudante de Engenharia de Software pela Universidade de Brasília.
 
-### Hello, my name is Bruno Oliveira and I'm a software engineer student.
-
-### Olá, meu nome é Bruno Oliveira e eu sou um estudante de engenharia de software. 
+- ⚙️ Gestão de Projetos.
+- 💻 Web developer, Fullstack.
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eng-Bruno&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Bruno Oliveira github stats" /> 
@@ -13,13 +12,6 @@
 
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eng-Bruno&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">  
-<a href="https://www.instagram.com/sadserelepe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
   
 
 ### Main skills:
@@ -62,6 +54,3 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{eng-Bruno}/count.svg" /></p> 
 <br></div>
-  
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
