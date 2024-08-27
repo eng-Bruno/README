@@ -49,8 +49,9 @@
 <div> 
   <a href = "mailto:brunooliveira.unb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  
-  <div align="center">
+
+<!--- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{eng-Bruno}/count.svg" /></p> 
 <br></div>
+-->
